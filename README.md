@@ -13,3 +13,9 @@ In this project we explore a **Logisitic Regression** problem using **supervised
 
 #### CreditRisk.csv
 Contains credit risk information on prior customer loans to be used to train and test the model.
+
+## Boston_House_Price_Prediction.ipynb
+In this project I explore a **Linear Regression** problem using supervised machine learning techniques to predict the price of a house in a given town or suburb of Boston based upon features of the locality by using regression techniques.  Using the provided data set, I am able to find a relatively accurate regression function to predict a house's price based upon the dependent variables provided.
+
+#### Boston.csv
+This is the training/testing data set used to create the linear regression model for the Boston house price prediction.
