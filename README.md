@@ -12,4 +12,4 @@ A project space in which I explore Machine Learning concepts and algorithms rela
 In this project we explore a **Logisitic Regression** problem using **supervised machine learning techniques**. The objective of the project is to use the credit history of previous lenders to train a model using classification algorithms (such as **kNN**) to help the bank prevent potential losses, and focus more on eligible customers.
 
 #### CreditRisk.csv
-Contains credit risk information on prior customer loans to be used to train the model.
+Contains credit risk information on prior customer loans to be used to train and test the model.
