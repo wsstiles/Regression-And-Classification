@@ -6,7 +6,7 @@ A project space in which I explore Machine Learning concepts and algorithms rela
 - Bootstrapping
 - Cross-Validation
 - Classification Algorithms including: Bayesian Formulations, Logistic Regression, and kNN (k-nearest neighbors)
-- Imputing Values for Missing/Null variables
+- Handling Incomplete Data
 - Univariate/Bivariate Analysis
 - Feature Engineering
 
