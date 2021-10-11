@@ -27,7 +27,7 @@ In this project, I explore both **Simple Linear Regression** and **Multiple Line
 This is the file containing the advertising and sales data for the company in question.
 
 ## Predicting_Loan_Default.ipynb
-In this project, I explore **Linear Discriminant Analysis** and **Logistic Regression** methods.  I also explore an implementation of a **k Nearest Neighbors** model.
+In this project, I explore **Linear Discriminant Analysis** and **Logistic Regression** methods.  I also explore an implementation of a **k Nearest Neighbors** algorithm to classify the data points.
 
 #### Default.csv
 This is a dataset containing a small amount of data on individuals that have received loans and either have or have not defaulted.
