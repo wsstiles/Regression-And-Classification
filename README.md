@@ -6,7 +6,15 @@ A project space in which I explore Machine Learning concepts and algorithms rela
 - Bootstrapping
 - Cross-Validation
 - Classification Algorithms including: Bayesian Formulations, Logistic Regression, and kNN (k-nearest neighbors)
+- Imputing Values for Missing/Null variables
+- Univariate/Bivariate Analysis
+- Feature Engineering
 
+## Product_Sales_Prediction.ipynb
+In this project, I learn and explore the basics of **Regression Modeling**.  I begin with a large sales dataset and aim to train a model that can accurately predict sales on a testing dataset.  In this project I learn how to handle incomplete data by **imputing values for missing/null entries** and perform **Univariate/Bivariate Analysis** across all variables, both numerical and categorical.  I also start exploring the **Linear Regression** modeling process, involving *scaling data*, *feature engineering*, *feature selection*, *checking assumptions of linear models*, and *rebuilding the model* to fit the assumptions of linear models.  I then continue on to use the model that I have trained to find an accurate prediction on the testing data.
+
+#### Test.csv / Train.csv
+These contain the testing and training sales data (respectively) which are used to create and test the linear regression model.
 
 ## Loan_Eligibility_Classification.ipynb
 In this project we explore a **Logisitic Regression** problem using **supervised machine learning techniques**. The objective of the project is to use the credit history of previous lenders to train a model using classification algorithms (such as **kNN**) to help the bank prevent potential losses, and focus more on eligible customers.
