@@ -19,3 +19,9 @@ In this project I explore a **Linear Regression** problem using supervised machi
 
 #### Boston.csv
 This is the training/testing data set used to create the linear regression model for the Boston house price prediction.
+
+## Effects_of_Advertising_on_Sales.ipynb
+In this project, I explore both **Simple Linear Regression** and **Multiple Linear Regression** models and evaluate their performance. I also experiment with **Regularization** methods and **Bootstrap sampling** in an attempt to better fit the model. The data set used in the experiment looks into advertising data for ads run on different media and we seek to connect a linear combination of each feature to the sales for the company.
+
+#### Advertising.csv
+This is the file containing the advertising and sales data for the company in question.
